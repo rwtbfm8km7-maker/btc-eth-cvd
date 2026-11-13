@@ -1,0 +1,22 @@
+{
+  "checked_at_utc": "2026-11-13T06:02:05.924004+00:00",
+  "note": "Latest 1000 aggregate trades only; not 1h or 4h CVD",
+  "results": {
+    "BTCUSDT": {
+      "buy_volume": 2.22757,
+      "sell_volume": 5.84926,
+      "cvd": -3.62169,
+      "trade_count": 1000,
+      "first_trade_ms": 1794549700033,
+      "last_trade_ms": 1794549724454
+    },
+    "ETHUSDT": {
+      "buy_volume": 84.1595,
+      "sell_volume": 84.9098,
+      "cvd": -0.7503,
+      "trade_count": 1000,
+      "first_trade_ms": 1794549697975,
+      "last_trade_ms": 1794549725433
+    }
+  }
+}
