@@ -1,22 +1,47 @@
 {
-  "checked_at_utc": "2026-11-13T06:02:05.924004+00:00",
-  "note": "Latest 1000 aggregate trades only; not 1h or 4h CVD",
+  "checked_at_utc": "2026-11-13T06:53:04.631201+00:00",
+  "source": "Binance spot aggregate trades",
+  "note": "Completed UTC hourly windows; errors must not be used as CVD",
   "results": {
     "BTCUSDT": {
-      "buy_volume": 2.22757,
-      "sell_volume": 5.84926,
-      "cvd": -3.62169,
-      "trade_count": 1000,
-      "first_trade_ms": 1794549700033,
-      "last_trade_ms": 1794549724454
+      "1h": {
+        "buy_volume": 1265.00371,
+        "sell_volume": 1314.99654,
+        "cvd": -49.99283,
+        "trade_count": 108613,
+        "start_utc": "2026-11-13T05:00:00+00:00",
+        "end_utc": "2026-11-13T06:00:00+00:00",
+        "status": "ok"
+      },
+      "4h": {
+        "buy_volume": 4918.02782,
+        "sell_volume": 6017.22127,
+        "cvd": -1099.19345,
+        "trade_count": 486550,
+        "start_utc": "2026-11-13T02:00:00+00:00",
+        "end_utc": "2026-11-13T06:00:00+00:00",
+        "status": "ok"
+      }
     },
     "ETHUSDT": {
-      "buy_volume": 84.1595,
-      "sell_volume": 84.9098,
-      "cvd": -0.7503,
-      "trade_count": 1000,
-      "first_trade_ms": 1794549697975,
-      "last_trade_ms": 1794549725433
+      "1h": {
+        "buy_volume": 14315.5128,
+        "sell_volume": 21655.7817,
+        "cvd": -7340.2689,
+        "trade_count": 79078,
+        "start_utc": "2026-11-13T05:00:00+00:00",
+        "end_utc": "2026-11-13T06:00:00+00:00",
+        "status": "ok"
+      },
+      "4h": {
+        "buy_volume": 57994.0334,
+        "sell_volume": 80287.1931,
+        "cvd": -22293.1597,
+        "trade_count": 325587,
+        "start_utc": "2026-11-13T02:00:00+00:00",
+        "end_utc": "2026-11-13T06:00:00+00:00",
+        "status": "ok"
+      }
     }
   }
 }
