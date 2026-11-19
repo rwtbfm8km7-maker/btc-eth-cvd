@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-11-19T17:03:27.729349+00:00",
+  "checked_at_utc": "2026-11-19T17:57:02.686169+00:00",
   "source": "Binance spot aggregate trades",
   "note": "Completed UTC hourly windows; errors must not be used as CVD",
   "results": {
