@@ -1,45 +1,45 @@
 {
-  "checked_at_utc": "2026-11-22T07:05:33.356490+00:00",
+  "checked_at_utc": "2026-11-22T08:50:24.948816+00:00",
   "source": "Binance spot aggregate trades",
   "note": "Completed UTC hourly windows; errors must not be used as CVD",
   "results": {
     "BTCUSDT": {
       "1h": {
-        "buy_volume": 310.89418,
-        "sell_volume": 262.14021,
-        "cvd": 48.75397,
-        "trade_count": 32802,
-        "start_utc": "2026-11-22T06:00:00+00:00",
-        "end_utc": "2026-11-22T07:00:00+00:00",
+        "buy_volume": 281.94006,
+        "sell_volume": 229.66243,
+        "cvd": 52.27763,
+        "trade_count": 29189,
+        "start_utc": "2026-11-22T07:00:00+00:00",
+        "end_utc": "2026-11-22T08:00:00+00:00",
         "status": "ok"
       },
       "4h": {
-        "buy_volume": 1479.47116,
-        "sell_volume": 1633.32037,
-        "cvd": -153.84921,
-        "trade_count": 161922,
-        "start_utc": "2026-11-22T03:00:00+00:00",
-        "end_utc": "2026-11-22T07:00:00+00:00",
+        "buy_volume": 1435.54379,
+        "sell_volume": 1410.37909,
+        "cvd": 25.1647,
+        "trade_count": 148618,
+        "start_utc": "2026-11-22T04:00:00+00:00",
+        "end_utc": "2026-11-22T08:00:00+00:00",
         "status": "ok"
       }
     },
     "ETHUSDT": {
       "1h": {
-        "buy_volume": 3423.7811,
-        "sell_volume": 3158.2801,
-        "cvd": 265.501,
-        "trade_count": 18310,
-        "start_utc": "2026-11-22T06:00:00+00:00",
-        "end_utc": "2026-11-22T07:00:00+00:00",
+        "buy_volume": 3399.763,
+        "sell_volume": 2278.0209,
+        "cvd": 1121.7421,
+        "trade_count": 13631,
+        "start_utc": "2026-11-22T07:00:00+00:00",
+        "end_utc": "2026-11-22T08:00:00+00:00",
         "status": "ok"
       },
       "4h": {
-        "buy_volume": 17996.409,
-        "sell_volume": 20582.5553,
-        "cvd": -2586.1463,
-        "trade_count": 87519,
-        "start_utc": "2026-11-22T03:00:00+00:00",
-        "end_utc": "2026-11-22T07:00:00+00:00",
+        "buy_volume": 16639.3371,
+        "sell_volume": 15921.882,
+        "cvd": 717.4551,
+        "trade_count": 75534,
+        "start_utc": "2026-11-22T04:00:00+00:00",
+        "end_utc": "2026-11-22T08:00:00+00:00",
         "status": "ok"
       }
     }
